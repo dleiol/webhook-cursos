@@ -1,0 +1,220 @@
+{
+  "cursos": [
+    {
+      "id": "g-ti-ads",
+      "nivel": "graduacao",
+      "area": "TI",
+      "nome": "Análise e Desenvolvimento de Sistemas",
+      "preco_base": 1151.33,
+      "dataFechamento": "2025-11-05"
+    },
+    {
+      "id": "g-ti-si",
+      "nivel": "graduacao",
+      "area": "TI",
+      "nome": "Sistemas de Informação",
+      "preco_base": 885.87,
+      "dataFechamento": "2025-11-08"
+    },
+    {
+      "id": "g-ti-cc",
+      "nivel": "graduacao",
+      "area": "TI",
+      "nome": "Ciência da Computação",
+      "preco_base": 1210.09,
+      "dataFechamento": "2025-11-09"
+    },
+    {
+      "id": "g-saude-enf",
+      "nivel": "graduacao",
+      "area": "Saúde",
+      "nome": "Enfermagem",
+      "preco_base": 1285.63,
+      "dataFechamento": "2025-11-05"
+    },
+    {
+      "id": "g-saude-nutr",
+      "nivel": "graduacao",
+      "area": "Saúde",
+      "nome": "Nutrição",
+      "preco_base": 518.84,
+      "dataFechamento": "2025-11-08"
+    },
+    {
+      "id": "g-saude-biomed",
+      "nivel": "graduacao",
+      "area": "Saúde",
+      "nome": "Biomedicina",
+      "preco_base": 1269.48,
+      "dataFechamento": "2025-11-05"
+    },
+    {
+      "id": "g-adm",
+      "nivel": "graduacao",
+      "area": "Administração",
+      "nome": "Administração",
+      "preco_base": 548.49,
+      "dataFechamento": "2025-11-08"
+    },
+    {
+      "id": "g-adm-rh",
+      "nivel": "graduacao",
+      "area": "Administração",
+      "nome": "Gestão de Recursos Humanos",
+      "preco_base": 1243.87,
+      "dataFechamento": "2025-11-03"
+    },
+    {
+      "id": "g-adm-fin",
+      "nivel": "graduacao",
+      "area": "Administração",
+      "nome": "Gestão Financeira",
+      "preco_base": 561.36,
+      "dataFechamento": "2025-11-07"
+    },
+    {
+      "id": "g-design-graf",
+      "nivel": "graduacao",
+      "area": "Design",
+      "nome": "Design Gráfico",
+      "preco_base": 825.98,
+      "dataFechamento": "2025-11-06"
+    },
+    {
+      "id": "g-design-inter",
+      "nivel": "graduacao",
+      "area": "Design",
+      "nome": "Design de Interiores",
+      "preco_base": 806.84,
+      "dataFechamento": "2025-11-04"
+    },
+    {
+      "id": "g-design-prod",
+      "nivel": "graduacao",
+      "area": "Design",
+      "nome": "Design de Produto",
+      "preco_base": 732.17,
+      "dataFechamento": "2025-11-01"
+    },
+    {
+      "id": "g-marketing",
+      "nivel": "graduacao",
+      "area": "Marketing",
+      "nome": "Marketing",
+      "preco_base": 798.38,
+      "dataFechamento": "2025-11-07"
+    },
+    {
+      "id": "g-marketing-pub",
+      "nivel": "graduacao",
+      "area": "Marketing",
+      "nome": "Publicidade e Propaganda",
+      "preco_base": 450.88,
+      "dataFechamento": "2025-11-25"
+    },
+    {
+      "id": "g-marketing-dig",
+      "nivel": "graduacao",
+      "area": "Marketing",
+      "nome": "Comunicação Digital",
+      "preco_base": 1376.84,
+      "dataFechamento": "2025-11-01"
+    },
+    {
+      "id": "p-ds",
+      "nivel": "pos",
+      "area": "TI",
+      "nome": "Pós em Data Science",
+      "preco_base": 601.66,
+      "dataFechamento": "2025-11-29"
+    },
+    {
+      "id": "p-gp-ti",
+      "nivel": "pos",
+      "area": "TI",
+      "nome": "Pós em Gestão de Projetos de TI",
+      "preco_base": 886.06,
+      "dataFechamento": "2025-11-04"
+    },
+    {
+      "id": "p-eng-soft",
+      "nivel": "pos",
+      "area": "TI",
+      "nome": "Pós em Engenharia de Software",
+      "preco_base": 1188.93,
+      "dataFechamento": "2025-12-15"
+    },
+    {
+      "id": "p-gs-saude",
+      "nivel": "pos",
+      "area": "Saúde",
+      "nome": "Pós em Gestão de Saúde",
+      "preco_base": 813.53,
+      "dataFechamento": "2025-11-05"
+    },
+    {
+      "id": "p-enf-ti",
+      "nivel": "pos",
+      "area": "Saúde",
+      "nome": "Pós em Enfermagem em Terapia Intensiva",
+      "preco_base": 1278.1,
+      "dataFechamento": "2025-12-09"
+    },
+    {
+      "id": "p-fis-exer",
+      "nivel": "pos",
+      "area": "Saúde",
+      "nome": "Pós em Fisiologia do Exercício",
+      "preco_base": 1179.48,
+      "dataFechamento": "2025-11-06"
+    },
+    {
+      "id": "p-marketing-dig",
+      "nivel": "pos",
+      "area": "Marketing",
+      "nome": "Pós em Marketing Digital",
+      "preco_base": 1280.31,
+      "dataFechamento": "2025-11-20"
+    },
+    {
+      "id": "p-brand-com",
+      "nivel": "pos",
+      "area": "Marketing",
+      "nome": "Pós em Branding e Comunicação Estratégica",
+      "preco_base": 956.99,
+      "dataFechamento": "2025-11-07"
+    },
+    {
+      "id": "mba-estr-cresc",
+      "nivel": "pos",
+      "area": "Marketing",
+      "nome": "MBA em Estratégias de Crescimento",
+      "preco_base": 459.59,
+      "dataFechamento": "2025-12-15"
+    },
+    {
+      "id": "p-gest-pess",
+      "nivel": "pos",
+      "area": "Administração",
+      "nome": "Pós em Gestão de Pessoas",
+      "preco_base": 911.15,
+      "dataFechamento": "2025-11-06"
+    },
+    {
+      "id": "p-fin-ctrl",
+      "nivel": "pos",
+      "area": "Administração",
+      "nome": "Pós em Finanças e Controladoria",
+      "preco_base": 1201.94,
+      "dataFechamento": "2025-11-21"
+    },
+    {
+      "id": "mba-lider-inov",
+      "nivel": "pos",
+      "area": "Administração",
+      "nome": "MBA em Liderança e Inovação",
+      "preco_base": 1048.43,
+      "dataFechamento": "2025-11-09"
+    }
+  ]
+}
