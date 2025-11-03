@@ -14,7 +14,9 @@ npm install
 npm start
 ```
 
-O servidor estará rodando em `http://localhost:1009`
+A API estará rodando em https://webhook-cursos.vercel.app
+
+Local: http://localhost:1009
 
 ## Estrutura de Dados
 
